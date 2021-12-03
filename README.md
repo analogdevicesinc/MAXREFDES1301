@@ -40,4 +40,4 @@ Click the "Code" button and click "Download ZIP" above (from the main GITHUB rep
 
 **Firmware Serial Output**
 
-![image](./img/serial_terminal.png)
+![image](./img/serial_terminal.PNG)
