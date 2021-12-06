@@ -1,6 +1,6 @@
 # MAXREFDES1301
 
-The MAXREFDES1301 reference design enables quick evaluation of the MAX17852 and MAX17853 for 96V three-Wheeler BMS.
+The [MAXREFDES1301 reference design](https://www.maximintegrated.com/en/design/reference-design-center/ref-circuits/7580.html) enables quick evaluation of the MAX17852 and MAX17853 for 96V three-Wheeler BMS.
 This reference design showcases the capabilities of the MAX17852 and MAX17853 in a daisy chain for the two individual 14-cell voltage measurements, pack voltage, pack current, temperature measurement, and passive cell balancing.
 
 This firmware code example helps to measure Cell Voltages in daisy chain configuration.
